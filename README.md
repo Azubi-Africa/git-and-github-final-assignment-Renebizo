@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | Retail_sales_analysis         |   sale of awesome chocolate             | https://github.com/Renebizo/Retail_sales_analysis.git      |
+| 2 |NUMBER_OF_VISITS_TO_PARKS_IN_COLORADO_STATE            |  Visit to park in Colorado State            |https://github.com/Renebizo/NUMBER_OF_VISITS_TO_PARKS_IN_COLORADO_STATE.git       |
+| 3 | AMERICAN_STATES_AND_PARKS           |American Map showing States and number of parks in 2022            |https://github.com/Renebizo/AMERICAN_STATES_AND_PARKS.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
